@@ -1,1 +1,2 @@
-# Class assignments organized by type 
+# Class assignments
+A few examples of concepts learned
