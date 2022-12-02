@@ -1,6 +1,6 @@
-/*Isabella Faile
-  COP 3502
-  Project 4 Scholarly Reader*/
+/*Given a list of the number of pages in all the books in the school library, and a maximum limit of 
+the number of pages  you are willing to read, determine the maximum  number of books you can 
+fully read! */
 
 
 #include <stdio.h>
