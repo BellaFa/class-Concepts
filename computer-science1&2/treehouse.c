@@ -1,7 +1,7 @@
-/*Isabella Faile
-  COP3502 Professor Guha
-  P2 assignment
-  9/25/21*/
+/*
+Given the (x, y) positions of 2n treehouse, of all possible ways to create n pairs of distinct trees,
+find the minimum possible sum of distances between each tree in the pairs.
+ */
 
 #include <stdio.h>
 #include <string.h>
