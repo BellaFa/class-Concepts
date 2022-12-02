@@ -1,8 +1,9 @@
 
-/*Isabella Faile
-  10/6/21
-  COP 3502 Prof Guha
-  Lottery assignment P3*/
+/*Given a list of the number of groups, the initial sizes of each group, the skip value for each group
+and the threshold value for each group, determine the winner of the lottery (group number and
+person number). In addition to determining the lottery winner, you must print a log for each group
+of which people get eliminated (in the order that they are eliminated from contention of winning
+the lottery.)*/
 
 #include <stdio.h>
 #include <stdlib.h>
