@@ -1,4 +1,4 @@
-// This project was created by Isabela Faile, James Jaro, Andrea Donoso
+//  implements a Recursive Descent Parser and Intermediate Code Generator
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
